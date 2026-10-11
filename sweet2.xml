@@ -10,10 +10,7 @@
              name="rony1duet/android_device_xiaomi_sm6150-common"
              remote="github" revision="main" clone-depth="1" />
 
-    <project path="kernel/xiaomi/sm6150"
-             name="Naughty-stuff/los_kernel_xiaomi_sm6150"
-             remote="github" revision="stable" clone-depth="1"
-             sync-c="true" sync-s="true" />
+<project path="kernel/xiaomi/sm6150" name="Ghnkz/los_kernel_xiaomi_sm6150" remote="rem" revision="stable" clone-depth="1" />
 
     <!-- Supporting sources from the reference sweet2 build setup. -->
     <project path="hardware/xiaomi"
