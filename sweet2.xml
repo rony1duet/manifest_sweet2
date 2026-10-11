@@ -31,11 +31,4 @@
              name="rony1duet/android_vendor_xiaomi_sm6150-common"
              remote="rem" revision="lineage-23.2" clone-depth="1" />
 
-    <!-- GCam & Prebuilts -->
-    <project path="vendor/GCam_sweet2"
-             name="rony1duet/GCam_sweet2"
-             remote="rem" revision="main" clone-depth="1" />
-    <project path="vendor/android_prebuilts_sweet2"
-             name="rony1duet/android_prebuilts_sweet2"
-             remote="rem" revision="main" clone-depth="1" />
 </manifest>
