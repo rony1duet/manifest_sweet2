@@ -13,7 +13,7 @@
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150"
              name="MiDoNaSR545/los_kernel_xiaomi_sm6150"
-             remote="rem" revision="limitles" clone-depth="1" />
+             remote="rem" revision="23.2" clone-depth="1" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi"
