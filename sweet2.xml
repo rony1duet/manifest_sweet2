@@ -13,12 +13,12 @@
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150"
              name="rony1duet/android_kernel_xiaomi_sm6150"
-             remote="rem" revision="PixelOS-16-QPR2" />
+             remote="rem" revision="PixelOS-16-QPR2" clone-depth="1" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi"
              name="rony1duet/android_hardware_xiaomi"
-             remote="rem" revision="PixelOS-16-QPR2" />
+             remote="rem" revision="PixelOS-16-QPR2" clone-depth="1" />
     <project path="hardware/dolby"
              name="rony1duet/hardware_dolby"
              remote="rem" revision="PixelOS-16-QPR2" clone-depth="1" />
@@ -34,7 +34,7 @@
     <!-- Vendor -->
     <project path="vendor/xiaomi/sweet2"
              name="rony1duet/android_vendor_xiaomi_sweet2"
-             remote="rem" revision="PixelOS-16-QPR2" />
+             remote="rem" revision="PixelOS-16-QPR2" clone-depth="1" />
     <project path="vendor/xiaomi/sm6150-common"
              name="rony1duet/android_vendor_xiaomi_sm6150-common"
              remote="rem" revision="PixelOS-16-QPR2" clone-depth="1" />
