@@ -29,7 +29,7 @@
              remote="rem" revision="PixelOS-17-base" clone-depth="1" />
 
     <!-- Build Soong -->
-    <remove-project name="platform/build/soong" />
+    <remove-project name="PixelOS-AOSP/android_build_soong" />
     <project path="build/soong"
              name="rony1duet/android_build_soong"
              remote="rem" revision="seventeen" clone-depth="1" />
