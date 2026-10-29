@@ -28,6 +28,11 @@
              name="rony1duet/android_prebuilts_sweet2"
              remote="rem" revision="PixelOS-17-base" clone-depth="1" />
 
+    <!-- Google Camera -->
+    <project path="vendor/GCam_sweet2"
+             name="rony1duet/GCam_sweet2"
+             remote="rem" revision="PixelOS-17-base" clone-depth="1" />
+
     <!-- Build Soong -->
     <remove-project name="PixelOS-AOSP/android_build_soong" />
     <project path="build/soong"
